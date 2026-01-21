@@ -63,6 +63,12 @@ int main()
 	myDog.displayData();
 	myDog.bark();
 
+	myDog.setname("Max");
+	myDog.setage(3);
+	myDog.setbreed("Beagle");
+	myDog.displayData();
+	myDog.bark();
+
 
 	return 0;
 }
