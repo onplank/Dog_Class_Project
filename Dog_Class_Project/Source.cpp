@@ -54,6 +54,7 @@ public:
 	}
 };
 
+// Main function
 int main()
 {
 	Dog myDog;
