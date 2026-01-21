@@ -6,6 +6,7 @@
 
 using namespace std;
 
+// Dog class definition
 class Dog
 {
 private:
