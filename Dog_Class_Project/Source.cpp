@@ -1,5 +1,6 @@
 // Oscar Navarrete
-
+// Dog Class Project
+// 01/10/2024
 #include <iostream>
 #include <string>
 
@@ -60,6 +61,12 @@ int main()
 	myDog.setname("Buddy");
 	myDog.setage(5);
 	myDog.setbreed("Golden Retriever");
+	myDog.displayData();
+	myDog.bark();
+
+	myDog.setname("Max");
+	myDog.setage(3);
+	myDog.setbreed("Beagle");
 	myDog.displayData();
 	myDog.bark();
 
